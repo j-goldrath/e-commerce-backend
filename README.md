@@ -12,5 +12,6 @@ npm i
 
 ## Usage
 ```
+npm run seed
 npm start
 ```
