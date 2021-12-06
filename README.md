@@ -12,6 +12,9 @@ npm i
 
 ## Usage
 ```
+mysql>SOURCE ./db/schema.sql
+```
+```
 npm run seed
 npm start
 ```
