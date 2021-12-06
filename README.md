@@ -9,6 +9,7 @@ Simple application intended to demonstrate the implementation of sequelize and e
 ```
 npm i
 ```
+![Install](https://github.com/j-goldrath/e-commerce-backend/blob/main/assets/images/e-commerce-backend-install.gif?raw=true)
 
 ## Usage
 ```
@@ -18,3 +19,7 @@ mysql>SOURCE ./db/schema.sql
 npm run seed
 npm start
 ```
+![Usage](https://github.com/j-goldrath/e-commerce-backend/blob/main/assets/images/e-commerce-backend-usage.gif?raw=true)
+
+##Demo
+![Demo](https://github.com/j-goldrath/e-commerce-backend/blob/main/assets/images/e-commerce-backend-demo.gif?raw=true)
