@@ -21,5 +21,5 @@ npm start
 ```
 ![Usage](https://github.com/j-goldrath/e-commerce-backend/blob/main/assets/images/e-commerce-backend-usage.gif?raw=true)
 
-##Demo
+## Demo
 ![Demo](https://github.com/j-goldrath/e-commerce-backend/blob/main/assets/images/e-commerce-backend-demo.gif?raw=true)
